@@ -30,3 +30,23 @@ Estudiante SENA
 ## GitHub
 
 https://github.com/anaherrera12/tienda-don-pedro
+
+
+## Domicilios
+
+**Horario de atención:**
+- Lunes a viernes: 8:00 a. m. a 8:00 p. m.
+- Sábados: 8:00 a. m. a 9:00 p. m.
+- Domingos y festivos: 9:00 a. m. a 2:00 p. m.
+
+**Barrios que cubre la tienda:**
+- Simón Bolívar
+- Santa María
+- San Pío
+- Las Américas
+
+**Tiempo estimado de entrega:** 30 a 45 minutos.
+
+**Costo del domicilio:** $3.000 COP.
+
+**Pedidos:** Se reciben por llamada telefónica o directamente en la tienda.
